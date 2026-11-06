@@ -1,0 +1,28 @@
+{
+  "name": "Sistem Gudang Marketplace",
+  "short_name": "GudangScan",
+  "description": "Sistem Validasi dan Verifikasi Resi Gudang Ekspedisi Marketplace",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0b1120",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait-primary",
+  "dir": "ltr",
+  "lang": "id-ID",
+  "categories": ["business", "utilities", "productivity"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
